@@ -1,7 +1,18 @@
 # Moonshot: Exploring Space Missions and Astronauts
 
 ## Overview
-Moonshot is an educational iOS app that delves into space exploration history. It presents detailed information about various space missions and astronauts, offering an immersive experience into the world of space travel and exploration.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/Moonshot/assets/123434744/42bb8116-85dc-4451-85de-e5ea098c224d" alt="Moonshot App Demo" width="300" />
+    </td>
+    <td>
+      Moonshot is an educational iOS app that delves into space exploration history. It presents detailed information about various space missions and astronauts, offering an immersive experience into the world of space travel and exploration.
+    <br><br>
+<em><b>Please Note:</b> This project demo was created and recorded in Swift Playgrounds on iPad, leading to an aspect ratio that may differ from the latest iPhone models.</em>
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Detailed Astronaut Profiles**: Learn about astronauts with detailed biographies and images.
@@ -29,3 +40,5 @@ Building Moonshot provided an excellent opportunity to delve into more complex S
 *Note: This project is part of the "100 Days of SwiftUI" course, aimed at reinforcing iOS development skills.*
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
