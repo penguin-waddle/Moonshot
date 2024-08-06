@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/penguin-waddle/Moonshot/assets/123434744/42bb8116-85dc-4451-85de-e5ea098c224d" alt="Moonshot App Demo" width="300" />
+      <img src="https://github.com/penguin-waddle/Moonshot/assets/123434744/42bb8116-85dc-4451-85de-e5ea098c224d" alt="Moonshot App Demo" width="2100" />
     </td>
     <td>
       Moonshot is an educational iOS app that delves into space exploration history. It presents detailed information about various space missions and astronauts, offering an immersive experience into the world of space travel and exploration.
